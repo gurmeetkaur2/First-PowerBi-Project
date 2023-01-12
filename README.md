@@ -1,6 +1,7 @@
 # PowerBi Report Development
-"Mexico Toys Sales Report"
 
+End to End Power BI Project in 40 Mins | Power BI Tutorials for Beginners | BI Tricks   
+* https://www.youtube.com/watch?v=SLRpk9MD1ys
 
 Maven Analytics Datasets: https://www.mavenanalytics.io/data-pl...
 
